@@ -7,8 +7,8 @@ Descripción: Mi proyecto resuelve el juego de sopa de letras, El programa lee u
 Requisitos:
 Este proyecto requiere Python 3 para ejecutarse, yo tengo python 3.12.7
 
-1. Clona el repositorio:
-Primero, debes clonar este repositorio en tu máquina local. Abre la terminal y usa el siguiente comando:
+1. Clona el repositorio
+2. Hola profe, tienes q clonar este repositorio en tu máquina local, por ende abre la terminal y usa el siguiente comando:
 
 ```bash
 git clone https://github.com/malejasarria/sopita.git
